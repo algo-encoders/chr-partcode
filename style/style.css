@@ -1,0 +1,136 @@
+#header {
+    background-color:#800080;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#f1f1f1;
+    height:200px;
+    width:150px;
+    float:left;
+    padding:5px;
+}
+#section {
+    width:500px;
+    float:left;
+    padding:10px;
+}
+#footer {
+    background-color:#800080;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 150px;
+    background-color: #f1f1f1;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #800080;
+    color: white;
+}
+
+/*Login Page*/
+
+header{
+	background-color:Green;
+	color:white;
+	Width:25%;
+	Height:60%;
+	margin:10%;
+	
+	
+	
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    background-color: #800080;
+    color: white;
+	text-align: left;
+    padding: 8px;
+}
+td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(odd){background-color: #f2f2f2}
+tr:hover {background-color: #dd99ff; color:#800080}
+td:hover {background-color: #ff8080; color:White}
+.button {
+    background-color: #800080; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	
+}
+
+select {
+    
+	width: 200px;
+    padding: 5px 10px;
+    border: 1px solid #800080;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+	
+}
+input[type=text] {
+    width: 200px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border-radius: 4px;
+	border: 1px solid #800080;
+	}
+textarea {
+    width: 300px;
+    height: 75px;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    border: 1px solid #800080;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+	}
+	input[type=password] {
+    width: 200px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border-radius: 4px;
+	border: 1px solid #800080;
+	}
+#td {
+	
+}
+
+#tr {
+	
+}
+	
+	
+

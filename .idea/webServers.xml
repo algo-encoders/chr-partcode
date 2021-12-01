@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d8af069d-0aa3-4eb9-adfc-cfdd7706ece9" name="chr-code" url="http://194.233.70.54">
+        <fileTransfer rootFolder="/chr-code.learndigital.cyou" host="194.233.70.54" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
